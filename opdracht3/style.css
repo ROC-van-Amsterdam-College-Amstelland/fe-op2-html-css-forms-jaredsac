@@ -1,0 +1,49 @@
+html{
+    height: 99%;
+    width: 99%;
+}
+
+body{
+    height: 99%;
+    width: 99%;
+    display: inline-grid;
+    align-items: center;
+    justify-items: center;
+}
+
+#form{
+    border: 2px solid black;
+    background-color: grey;
+    color: white;
+    padding: 30px;
+}
+#tekst{
+    text-align: center;
+}
+#Naam{
+    display: flex;
+    flex-direction: row;
+}
+#AN{
+    display: flex;
+    flex-direction: column;
+    margin-left: 120px;
+    
+}
+#email{
+    display: flex;
+    flex-direction: column;
+}
+#WW{
+    display: flex;
+    flex-direction: column;
+}
+#WWH{
+    display: flex;
+    flex-direction: column;
+}
+#Inloggen{
+    display: inline-grid;
+    align-items: center;
+    justify-items: center
+}
