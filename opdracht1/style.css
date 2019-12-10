@@ -46,6 +46,38 @@ body{
     display: flex;
     flex-direction: row;
 }
-#input{
-   
+#VN{
+    display: flex;
+    flex-direction: column;
+    margin-left: 64px;
+}
+#AN{
+    display: flex;
+    flex-direction: column;
+    margin-left: 51px; 
+}
+#GD{
+    display: flex;
+    flex-direction: column;
+    margin-left: 31px;
+}
+#NN{
+    display: flex;
+    flex-direction: column;
+    margin-left: 64px;
+}
+#EA{
+    display: flex;
+    flex-direction: column;
+    margin-left: 58px;
+}
+#TN{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+img{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5px;
 }
